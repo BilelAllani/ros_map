@@ -611,3 +611,9 @@
   description: French speaking engineering university. Our university has many robotics
     student clubs.
   link: https://www.etsmtl.ca/
+- name: Institut de recherche sur l'hydrogène 
+  type: research institute
+  lat: 46.346963
+  long: 72.577533
+  address: Pavillon Tapan-K.-Bose, 3351 Boulevard des Forges, Trois-Rivières, Quebec G9A 5H7, Canada
+  link: https://www.irh.ca/fr/recherche/reseaux-intelligents-et-mobilite/
